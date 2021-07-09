@@ -297,7 +297,9 @@ main .post .post-info .post-desc {
   .navbar li {
     justify-content: center;
   }
-
+  .lead{
+    font-size: 18px;
+  }
   .top_menu .right ul {
     display: none;
   }
